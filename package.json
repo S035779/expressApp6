@@ -1,7 +1,7 @@
 {
-  "name": "express-sample-code1",
+  "name": "express-sample-code6",
   "version": "0.0.1",
-  "description": "Express MVC sample code #1.",
+  "description": "Express MVC sample code #6.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,13 +16,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/S035779/expressApp.git"
+    "url": "git+https://github.com/S035779/expressApp6.git"
   },
   "keywords": [
     "express"
   ],
   "bugs": {
-    "url": "https://github.com/S035779/expressApp/issues"
+    "url": "https://github.com/S035779/expressApp6/issues"
   },
-  "homepage": "https://github.com/S035779/expressApp#readme"
+  "homepage": "https://github.com/S035779/expressApp6#readme"
 }
